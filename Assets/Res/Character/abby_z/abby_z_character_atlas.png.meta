@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 1e78a4f4ad8a3e54886479178b71cf94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6128450856312310381
+    second: abby_z_character_atlas_0
+  - first:
+      213: 6977560702999577602
+    second: abby_z_character_atlas_1
+  - first:
+      213: -8768596723434458034
+    second: abby_z_character_atlas_2
+  - first:
+      213: -9149591675790403722
+    second: abby_z_character_atlas_3
+  - first:
+      213: 3482827513966116810
+    second: abby_z_character_atlas_4
+  - first:
+      213: -2224465827207003172
+    second: abby_z_character_atlas_5
+  - first:
+      213: 9050590112632166612
+    second: abby_z_character_atlas_6
+  - first:
+      213: -7115447277995420939
+    second: abby_z_character_atlas_7
+  - first:
+      213: -3566139860377381119
+    second: abby_z_character_atlas_8
+  - first:
+      213: -2235595679432962310
+    second: abby_z_character_atlas_9
+  - first:
+      213: 3497088831536112366
+    second: abby_z_character_atlas_10
+  - first:
+      213: -182184512504612934
+    second: abby_z_character_atlas_11
+  - first:
+      213: 7352877595778645629
+    second: abby_z_character_atlas_12
+  - first:
+      213: -1197497384914683374
+    second: abby_z_character_atlas_13
+  - first:
+      213: -7292779128638639393
+    second: abby_z_character_atlas_14
+  - first:
+      213: -2167767994857067034
+    second: abby_z_character_atlas_15
+  - first:
+      213: -8777001765121392770
+    second: abby_z_character_atlas_16
+  - first:
+      213: -1434349462464453608
+    second: abby_z_character_atlas_17
+  - first:
+      213: 6677378826826022947
+    second: abby_z_character_atlas_18
+  - first:
+      213: -1709903474672380382
+    second: abby_z_character_atlas_19
+  - first:
+      213: 709107428123594366
+    second: abby_z_character_atlas_20
+  - first:
+      213: -1075320527635684515
+    second: abby_z_character_atlas_21
+  - first:
+      213: 8428280498724716801
+    second: abby_z_character_atlas_22
+  - first:
+      213: -7480108339852361737
+    second: abby_z_character_atlas_23
+  - first:
+      213: 4587743690425594241
+    second: abby_z_character_atlas_24
+  - first:
+      213: -9196297928486404989
+    second: abby_z_character_atlas_25
+  - first:
+      213: 3368082516508029552
+    second: abby_z_character_atlas_26
+  - first:
+      213: -7147934188718546349
+    second: abby_z_character_atlas_27
+  - first:
+      213: -7632593364718644160
+    second: abby_z_character_atlas_28
+  - first:
+      213: -63336029982667823
+    second: abby_z_character_atlas_29
+  - first:
+      213: 7789546500616716279
+    second: abby_z_character_atlas_30
+  - first:
+      213: -8204434020645907387
+    second: abby_z_character_atlas_31
+  - first:
+      213: -8717638937967387298
+    second: abby_z_character_atlas_32
+  - first:
+      213: -6894402223472730648
+    second: abby_z_character_atlas_33
+  - first:
+      213: -7191280001665422567
+    second: abby_z_character_atlas_34
+  - first:
+      213: 4692054477587395638
+    second: abby_z_character_atlas_35
+  - first:
+      213: -5706338331883063577
+    second: abby_z_character_atlas_36
+  - first:
+      213: -1252169031057208809
+    second: abby_z_character_atlas_37
+  - first:
+      213: 8966088679070220275
+    second: abby_z_character_atlas_38
+  - first:
+      213: -7145732551729375783
+    second: abby_z_character_atlas_39
+  - first:
+      213: -3976936701443289055
+    second: abby_z_character_atlas_40
+  - first:
+      213: -3486554505913883682
+    second: abby_z_character_atlas_41
+  - first:
+      213: -8359857939857922474
+    second: abby_z_character_atlas_42
+  - first:
+      213: -1932262634702100124
+    second: abby_z_character_atlas_43
+  - first:
+      213: -8193194287182099478
+    second: abby_z_character_atlas_44
+  - first:
+      213: 1244975110533427730
+    second: abby_z_character_atlas_45
+  - first:
+      213: -1172614043642284805
+    second: abby_z_character_atlas_46
+  - first:
+      213: -1174101329228836222
+    second: abby_z_character_atlas_47
+  - first:
+      213: -1738151690186143987
+    second: abby_z_character_atlas_48
+  - first:
+      213: -3784596793230072985
+    second: abby_z_character_atlas_49
+  - first:
+      213: 3227841766557138454
+    second: abby_z_character_atlas_50
+  - first:
+      213: 8754009833643912065
+    second: abby_z_character_atlas_51
+  - first:
+      213: 5794734057099654802
+    second: abby_z_character_atlas_52
+  - first:
+      213: -3132960268579209475
+    second: abby_z_character_atlas_53
+  - first:
+      213: 3998776519013233096
+    second: abby_z_character_atlas_54
+  - first:
+      213: -3057782156360475401
+    second: abby_z_character_atlas_55
+  - first:
+      213: 7290029544195547603
+    second: abby_z_character_atlas_56
+  - first:
+      213: 2875076886158677194
+    second: abby_z_character_atlas_57
+  - first:
+      213: 7152595105602533211
+    second: abby_z_character_atlas_58
+  - first:
+      213: 2068969486700393029
+    second: abby_z_character_atlas_59
+  - first:
+      213: 3540594821965638426
+    second: abby_z_character_atlas_60
+  - first:
+      213: -7853613768004217276
+    second: abby_z_character_atlas_61
+  - first:
+      213: 9013231364936623692
+    second: abby_z_character_atlas_62
+  - first:
+      213: 6171310638265824988
+    second: abby_z_character_atlas_63
+  - first:
+      213: -2175027562966451556
+    second: abby_z_character_atlas_64
+  - first:
+      213: -8176195403166972755
+    second: abby_z_character_atlas_65
+  - first:
+      213: -5758624690600291638
+    second: abby_z_character_atlas_66
+  - first:
+      213: -2421221369949031741
+    second: abby_z_character_atlas_67
+  - first:
+      213: 6988883883627573538
+    second: abby_z_character_atlas_68
+  - first:
+      213: 8578286367125248459
+    second: abby_z_character_atlas_69
+  - first:
+      213: -608669371861370125
+    second: abby_z_character_atlas_70
+  - first:
+      213: 2791811048976519759
+    second: abby_z_character_atlas_71
+  - first:
+      213: -3750394810137017797
+    second: abby_z_character_atlas_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abby_z_character_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 683
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0fe97591ac0550800000000000000
+      internalID: 6128450856312310381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 683
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204c30d9d7645d060800000000000000
+      internalID: 6977560702999577602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 683
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f801fcbfaf4680800000000000000
+      internalID: -8768596723434458034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 721
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67754a4f8de160180800000000000000
+      internalID: -9149591675790403722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 683
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf38efcb2d755030800000000000000
+      internalID: 3482827513966116810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 701
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c45aad1c1121e0800000000000000
+      internalID: -2224465827207003172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 683
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85a1f51c72a9d70800000000000000
+      internalID: 9050590112632166612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 710
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f21011666ad04d90800000000000000
+      internalID: -7115447277995420939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 704
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10758d2f0b6828ec0800000000000000
+      internalID: -3566139860377381119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 683
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe0002039199f0e0800000000000000
+      internalID: -2235595679432962310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 683
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee222bf83c7288030800000000000000
+      internalID: 3497088831536112366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 683
+        width: 76
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b590b620c87df0800000000000000
+      internalID: -182184512504612934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 683
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e7055573baa0660800000000000000
+      internalID: 7352877595778645629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 683
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a73b81972a16fe0800000000000000
+      internalID: -1197497384914683374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 683
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27c147508daca90800000000000000
+      internalID: -7292779128638639393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 683
+        width: 79
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed65177e7a8ae1e0800000000000000
+      internalID: -2167767994857067034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 683
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f76fca563d13680800000000000000
+      internalID: -8777001765121392770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 607
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814a80e63ca281ce0800000000000000
+      internalID: -1434349462464453608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 607
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3200eab2aa0daac50800000000000000
+      internalID: 6677378826826022947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 607
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22652f769d33548e0800000000000000
+      internalID: -1709903474672380382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 607
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec5e8e27147d900800000000000000
+      internalID: 709107428123594366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 607
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53e69a6da1b311f0800000000000000
+      internalID: -1075320527635684515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 607
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c6d9657447f470800000000000000
+      internalID: 8428280498724716801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 607
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb9a1a811513890800000000000000
+      internalID: -7480108339852361737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 607
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1817b5c5490faaf30800000000000000
+      internalID: 4587743690425594241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 607
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c38e312cf206080800000000000000
+      internalID: -9196297928486404989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 607
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723aa23435ddbe20800000000000000
+      internalID: 3368082516508029552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 607
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352af8b0abf6dcc90800000000000000
+      internalID: -7147934188718546349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 607
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04411f426c4931690800000000000000
+      internalID: -7632593364718644160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 607
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db466f573cfe1ff0800000000000000
+      internalID: -63336029982667823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 531
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff75a285470a1c60800000000000000
+      internalID: 7789546500616716279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 531
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54455482abef32e80800000000000000
+      internalID: -8204434020645907387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 531
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d175ee299b40780800000000000000
+      internalID: -8717638937967387298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 531
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9e33b4b92250a0800000000000000
+      internalID: -6894402223472730648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 531
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bac5480f0733c90800000000000000
+      internalID: -7191280001665422567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 531
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b06310b68d1140800000000000000
+      internalID: 4692054477587395638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 531
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63ae745830fc0b0800000000000000
+      internalID: -5706338331883063577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 531
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a071986e66f9ee0800000000000000
+      internalID: -1252169031057208809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 455
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffb1a43622fd6c70800000000000000
+      internalID: 8966088679070220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 455
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5993a9a1245dc90800000000000000
+      internalID: -7145732551729375783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 455
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120524804251fc8c0800000000000000
+      internalID: -3976936701443289055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 455
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed327f046254d9fc0800000000000000
+      internalID: -3486554505913883682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 455
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6562a020f71dbfb80800000000000000
+      internalID: -8359857939857922474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 455
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46922dd0f593f25e0800000000000000
+      internalID: -1932262634702100124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 455
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb40c8843deb4e80800000000000000
+      internalID: -8193194287182099478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 455
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2123c81544a074110800000000000000
+      internalID: 1244975110533427730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 379
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf431167db90abfe0800000000000000
+      internalID: -1172614043642284805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 379
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282500dcf01c4bfe0800000000000000
+      internalID: -1174101329228836222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 379
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c5b43f38d0e7e0800000000000000
+      internalID: -1738151690186143987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 379
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7636079a4496a7bc0800000000000000
+      internalID: -3784596793230072985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 379
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ebece1cf89bcc20800000000000000
+      internalID: 3227841766557138454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 379
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2f9e109d7c7970800000000000000
+      internalID: 8754009833643912065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 379
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29678415ce70b6050800000000000000
+      internalID: 5794734057099654802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 379
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe7cef1c3d7584d0800000000000000
+      internalID: -3132960268579209475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 223
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1f4ffbe028e7730800000000000000
+      internalID: 3998776519013233096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 234
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc1b9164539095d0800000000000000
+      internalID: -3057782156360475401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 151
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e0e70f336b2560800000000000000
+      internalID: 7290029544195547603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 151
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49c65f13356e720800000000000000
+      internalID: 2875076886158677194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57f2ab3a5f134360800000000000000
+      internalID: 7152595105602533211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 151
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54236e949c476bc10800000000000000
+      internalID: 2068969486700393029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 151
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b69d05b38b22130800000000000000
+      internalID: 3540594821965638426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 151
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ddf263eb520390800000000000000
+      internalID: -7853613768004217276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 151
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e4791c2e651d70800000000000000
+      internalID: 9013231364936623692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 151
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67c681456e4a550800000000000000
+      internalID: 6171310638265824988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a73bc84ffb0d1e0800000000000000
+      internalID: -2175027562966451556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 151
+        width: 320
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da40d04a991588e80800000000000000
+      internalID: -8176195403166972755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d9f9ba514510b0800000000000000
+      internalID: -5758624690600291638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 151
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27a910ef7166ed0800000000000000
+      internalID: -2421221369949031741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 151
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f21c0dd08df060800000000000000
+      internalID: 6988883883627573538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 151
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9931e40023c0770800000000000000
+      internalID: 8578286367125248459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 151
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fafa806e629d87f0800000000000000
+      internalID: -608669371861370125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42914e7b518eb620800000000000000
+      internalID: 2791811048976519759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abby_z_character_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3280566acbe3fbc0800000000000000
+      internalID: -3750394810137017797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      abby_z_character_atlas_0: 6128450856312310381
+      abby_z_character_atlas_1: 6977560702999577602
+      abby_z_character_atlas_10: 3497088831536112366
+      abby_z_character_atlas_11: -182184512504612934
+      abby_z_character_atlas_12: 7352877595778645629
+      abby_z_character_atlas_13: -1197497384914683374
+      abby_z_character_atlas_14: -7292779128638639393
+      abby_z_character_atlas_15: -2167767994857067034
+      abby_z_character_atlas_16: -8777001765121392770
+      abby_z_character_atlas_17: -1434349462464453608
+      abby_z_character_atlas_18: 6677378826826022947
+      abby_z_character_atlas_19: -1709903474672380382
+      abby_z_character_atlas_2: -8768596723434458034
+      abby_z_character_atlas_20: 709107428123594366
+      abby_z_character_atlas_21: -1075320527635684515
+      abby_z_character_atlas_22: 8428280498724716801
+      abby_z_character_atlas_23: -7480108339852361737
+      abby_z_character_atlas_24: 4587743690425594241
+      abby_z_character_atlas_25: -9196297928486404989
+      abby_z_character_atlas_26: 3368082516508029552
+      abby_z_character_atlas_27: -7147934188718546349
+      abby_z_character_atlas_28: -7632593364718644160
+      abby_z_character_atlas_29: -63336029982667823
+      abby_z_character_atlas_3: -9149591675790403722
+      abby_z_character_atlas_30: 7789546500616716279
+      abby_z_character_atlas_31: -8204434020645907387
+      abby_z_character_atlas_32: -8717638937967387298
+      abby_z_character_atlas_33: -6894402223472730648
+      abby_z_character_atlas_34: -7191280001665422567
+      abby_z_character_atlas_35: 4692054477587395638
+      abby_z_character_atlas_36: -5706338331883063577
+      abby_z_character_atlas_37: -1252169031057208809
+      abby_z_character_atlas_38: 8966088679070220275
+      abby_z_character_atlas_39: -7145732551729375783
+      abby_z_character_atlas_4: 3482827513966116810
+      abby_z_character_atlas_40: -3976936701443289055
+      abby_z_character_atlas_41: -3486554505913883682
+      abby_z_character_atlas_42: -8359857939857922474
+      abby_z_character_atlas_43: -1932262634702100124
+      abby_z_character_atlas_44: -8193194287182099478
+      abby_z_character_atlas_45: 1244975110533427730
+      abby_z_character_atlas_46: -1172614043642284805
+      abby_z_character_atlas_47: -1174101329228836222
+      abby_z_character_atlas_48: -1738151690186143987
+      abby_z_character_atlas_49: -3784596793230072985
+      abby_z_character_atlas_5: -2224465827207003172
+      abby_z_character_atlas_50: 3227841766557138454
+      abby_z_character_atlas_51: 8754009833643912065
+      abby_z_character_atlas_52: 5794734057099654802
+      abby_z_character_atlas_53: -3132960268579209475
+      abby_z_character_atlas_54: 3998776519013233096
+      abby_z_character_atlas_55: -3057782156360475401
+      abby_z_character_atlas_56: 7290029544195547603
+      abby_z_character_atlas_57: 2875076886158677194
+      abby_z_character_atlas_58: 7152595105602533211
+      abby_z_character_atlas_59: 2068969486700393029
+      abby_z_character_atlas_6: 9050590112632166612
+      abby_z_character_atlas_60: 3540594821965638426
+      abby_z_character_atlas_61: -7853613768004217276
+      abby_z_character_atlas_62: 9013231364936623692
+      abby_z_character_atlas_63: 6171310638265824988
+      abby_z_character_atlas_64: -2175027562966451556
+      abby_z_character_atlas_65: -8176195403166972755
+      abby_z_character_atlas_66: -5758624690600291638
+      abby_z_character_atlas_67: -2421221369949031741
+      abby_z_character_atlas_68: 6988883883627573538
+      abby_z_character_atlas_69: 8578286367125248459
+      abby_z_character_atlas_7: -7115447277995420939
+      abby_z_character_atlas_70: -608669371861370125
+      abby_z_character_atlas_71: 2791811048976519759
+      abby_z_character_atlas_72: -3750394810137017797
+      abby_z_character_atlas_8: -3566139860377381119
+      abby_z_character_atlas_9: -2235595679432962310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

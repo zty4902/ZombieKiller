@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc460e3eaeb97f48b48aa09fa988f09, type: 3}
+  m_Name: blood_explosion_blood_explosion_animation
+  m_EditorClassIdentifier: 
+  SpriteSheet: {fileID: 21300000, guid: 22609976c2062a441acbb3e871d49a7a, type: 3}
+  FrameCount:
+    x: 4
+    y: 2
+  FrameRange:
+    Offset: 0
+    Count: 7
+  FrameDurations:
+  - 0.15
+  - 0.15
+  - 0.15
+  - 0.15
+  - 0.15
+  - 0.15
+  - 999

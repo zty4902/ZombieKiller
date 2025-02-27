@@ -1,0 +1,2814 @@
+fileFormatVersion: 2
+guid: fd903a46d1ecbd649a221082d80510a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3695850603035794377
+    second: judi_h_character_atlas_0
+  - first:
+      213: 5112183281672678681
+    second: judi_h_character_atlas_1
+  - first:
+      213: -6578340580852119045
+    second: judi_h_character_atlas_2
+  - first:
+      213: 8796397712233806292
+    second: judi_h_character_atlas_3
+  - first:
+      213: -4237282372683214794
+    second: judi_h_character_atlas_4
+  - first:
+      213: 4914978206595308849
+    second: judi_h_character_atlas_5
+  - first:
+      213: -662097591633874588
+    second: judi_h_character_atlas_6
+  - first:
+      213: 7794633478437874312
+    second: judi_h_character_atlas_7
+  - first:
+      213: 6567001965793620603
+    second: judi_h_character_atlas_8
+  - first:
+      213: -6834965993758271018
+    second: judi_h_character_atlas_9
+  - first:
+      213: -2295861508786476645
+    second: judi_h_character_atlas_10
+  - first:
+      213: -755318441123770102
+    second: judi_h_character_atlas_11
+  - first:
+      213: -4244401108581243745
+    second: judi_h_character_atlas_12
+  - first:
+      213: 654339448086799740
+    second: judi_h_character_atlas_13
+  - first:
+      213: 1802334085122820890
+    second: judi_h_character_atlas_14
+  - first:
+      213: 966236965193095631
+    second: judi_h_character_atlas_15
+  - first:
+      213: 5743457091598530934
+    second: judi_h_character_atlas_16
+  - first:
+      213: -1328371830927595877
+    second: judi_h_character_atlas_17
+  - first:
+      213: -8939094816054704484
+    second: judi_h_character_atlas_18
+  - first:
+      213: 5692217065616083566
+    second: judi_h_character_atlas_19
+  - first:
+      213: 1383268836508921440
+    second: judi_h_character_atlas_20
+  - first:
+      213: -7477755628214154556
+    second: judi_h_character_atlas_21
+  - first:
+      213: 318134861779131537
+    second: judi_h_character_atlas_22
+  - first:
+      213: 3190057200432562871
+    second: judi_h_character_atlas_23
+  - first:
+      213: -3894548795404406482
+    second: judi_h_character_atlas_24
+  - first:
+      213: -4939424487290068598
+    second: judi_h_character_atlas_25
+  - first:
+      213: 7838811825134593421
+    second: judi_h_character_atlas_26
+  - first:
+      213: 5041349938888122551
+    second: judi_h_character_atlas_27
+  - first:
+      213: 2310387128265823053
+    second: judi_h_character_atlas_28
+  - first:
+      213: -3526562948708485424
+    second: judi_h_character_atlas_29
+  - first:
+      213: -5793424754517449678
+    second: judi_h_character_atlas_30
+  - first:
+      213: 4185202157347224551
+    second: judi_h_character_atlas_31
+  - first:
+      213: -4194369258854562211
+    second: judi_h_character_atlas_32
+  - first:
+      213: 9174235910659652332
+    second: judi_h_character_atlas_33
+  - first:
+      213: 7346248139244367038
+    second: judi_h_character_atlas_34
+  - first:
+      213: 2629205230204788033
+    second: judi_h_character_atlas_35
+  - first:
+      213: -1368866489476300307
+    second: judi_h_character_atlas_36
+  - first:
+      213: -570576043904137550
+    second: judi_h_character_atlas_37
+  - first:
+      213: -2064065233586976717
+    second: judi_h_character_atlas_38
+  - first:
+      213: -2528625722974826762
+    second: judi_h_character_atlas_39
+  - first:
+      213: 7528258407901678239
+    second: judi_h_character_atlas_40
+  - first:
+      213: -5369278708314845224
+    second: judi_h_character_atlas_41
+  - first:
+      213: 6093826601734305287
+    second: judi_h_character_atlas_42
+  - first:
+      213: 8842757100579141513
+    second: judi_h_character_atlas_43
+  - first:
+      213: -1798936344718101358
+    second: judi_h_character_atlas_44
+  - first:
+      213: -8791879930969275655
+    second: judi_h_character_atlas_45
+  - first:
+      213: 475033716939928780
+    second: judi_h_character_atlas_46
+  - first:
+      213: -4341560875453321850
+    second: judi_h_character_atlas_47
+  - first:
+      213: 7821447776574819640
+    second: judi_h_character_atlas_48
+  - first:
+      213: 797454037114773601
+    second: judi_h_character_atlas_49
+  - first:
+      213: 5821391812211194237
+    second: judi_h_character_atlas_50
+  - first:
+      213: -8930539900456571716
+    second: judi_h_character_atlas_51
+  - first:
+      213: -2829955665863859026
+    second: judi_h_character_atlas_52
+  - first:
+      213: 5223527126693733869
+    second: judi_h_character_atlas_53
+  - first:
+      213: -324908622448496203
+    second: judi_h_character_atlas_54
+  - first:
+      213: 3499114536799907804
+    second: judi_h_character_atlas_55
+  - first:
+      213: -4710607086624261617
+    second: judi_h_character_atlas_56
+  - first:
+      213: 7240780155642513956
+    second: judi_h_character_atlas_57
+  - first:
+      213: -2158865834027392425
+    second: judi_h_character_atlas_58
+  - first:
+      213: 3790956316720237242
+    second: judi_h_character_atlas_59
+  - first:
+      213: 6236760270875711577
+    second: judi_h_character_atlas_60
+  - first:
+      213: 7831781996939110700
+    second: judi_h_character_atlas_61
+  - first:
+      213: 3287966585138616606
+    second: judi_h_character_atlas_62
+  - first:
+      213: 5884294427502000449
+    second: judi_h_character_atlas_63
+  - first:
+      213: -1089469628093018604
+    second: judi_h_character_atlas_64
+  - first:
+      213: -5408650279006809227
+    second: judi_h_character_atlas_65
+  - first:
+      213: -3212554362659145052
+    second: judi_h_character_atlas_66
+  - first:
+      213: 7739600107943142069
+    second: judi_h_character_atlas_67
+  - first:
+      213: 7048781798471841491
+    second: judi_h_character_atlas_68
+  - first:
+      213: -8633438131206612943
+    second: judi_h_character_atlas_69
+  - first:
+      213: -4499548413398376759
+    second: judi_h_character_atlas_70
+  - first:
+      213: -3308001478944213770
+    second: judi_h_character_atlas_71
+  - first:
+      213: -5767000474971553769
+    second: judi_h_character_atlas_72
+  - first:
+      213: -7133902380333240447
+    second: judi_h_character_atlas_73
+  - first:
+      213: 1784288322165019716
+    second: judi_h_character_atlas_74
+  - first:
+      213: 1346699556784128741
+    second: judi_h_character_atlas_75
+  - first:
+      213: 7091853803945513860
+    second: judi_h_character_atlas_76
+  - first:
+      213: -4439663164108948627
+    second: judi_h_character_atlas_77
+  - first:
+      213: 2851479872326809250
+    second: judi_h_character_atlas_78
+  - first:
+      213: 7703210654433099838
+    second: judi_h_character_atlas_79
+  - first:
+      213: -7953071559877050706
+    second: judi_h_character_atlas_80
+  - first:
+      213: 1011075329428233678
+    second: judi_h_character_atlas_81
+  - first:
+      213: -4042534117255219066
+    second: judi_h_character_atlas_82
+  - first:
+      213: -7690020268143961388
+    second: judi_h_character_atlas_83
+  - first:
+      213: -389690512365233245
+    second: judi_h_character_atlas_84
+  - first:
+      213: -2411676205708909120
+    second: judi_h_character_atlas_85
+  - first:
+      213: 4841413384322572112
+    second: judi_h_character_atlas_86
+  - first:
+      213: 6027739262050124296
+    second: judi_h_character_atlas_87
+  - first:
+      213: 1048805853116802511
+    second: judi_h_character_atlas_88
+  - first:
+      213: 8708421947010633257
+    second: judi_h_character_atlas_89
+  - first:
+      213: -6469966955744092672
+    second: judi_h_character_atlas_90
+  - first:
+      213: -2914729294641498361
+    second: judi_h_character_atlas_91
+  - first:
+      213: -7280673019365210648
+    second: judi_h_character_atlas_92
+  - first:
+      213: -2139710648325885558
+    second: judi_h_character_atlas_93
+  - first:
+      213: 818597992246277696
+    second: judi_h_character_atlas_94
+  - first:
+      213: -2796631503723535850
+    second: judi_h_character_atlas_95
+  - first:
+      213: 205120259694568955
+    second: judi_h_character_atlas_96
+  - first:
+      213: 3421114652121275589
+    second: judi_h_character_atlas_97
+  - first:
+      213: -1208435469019124319
+    second: judi_h_character_atlas_98
+  - first:
+      213: -2131020591898121670
+    second: judi_h_character_atlas_99
+  - first:
+      213: -5049101702147317944
+    second: judi_h_character_atlas_100
+  - first:
+      213: -2325034556882834475
+    second: judi_h_character_atlas_101
+  - first:
+      213: -60673676571356194
+    second: judi_h_character_atlas_102
+  - first:
+      213: 6139715595678208984
+    second: judi_h_character_atlas_103
+  - first:
+      213: -6707407612575912767
+    second: judi_h_character_atlas_104
+  - first:
+      213: 2603868370770054655
+    second: judi_h_character_atlas_105
+  - first:
+      213: 8993251302384861119
+    second: judi_h_character_atlas_106
+  - first:
+      213: 4812154454267854497
+    second: judi_h_character_atlas_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: judi_h_character_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 575
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9cd0ca8c4a4330800000000000000
+      internalID: 3695850603035794377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 575
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6ac2fb9f12f640800000000000000
+      internalID: 5112183281672678681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 575
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c5c2681a05b4a0800000000000000
+      internalID: -6578340580852119045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 575
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d931cc2d15131a70800000000000000
+      internalID: 8796397712233806292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 575
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305133d1262235c0800000000000000
+      internalID: -4237282372683214794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 575
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d56e263a2853440800000000000000
+      internalID: 4914978206595308849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 608
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46175049fb1cfc6f0800000000000000
+      internalID: -662097591633874588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 602
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a28a4d9d91c2c60800000000000000
+      internalID: 7794633478437874312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 575
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72bb629e7da22b50800000000000000
+      internalID: 6567001965793620603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 607
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d92254a25521a0800000000000000
+      internalID: -6834965993758271018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 592
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992a4b2f167320e0800000000000000
+      internalID: -2295861508786476645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 584
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01148031e19485f0800000000000000
+      internalID: -755318441123770102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 578
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94adb6fdabd815c0800000000000000
+      internalID: -4244401108581243745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 576
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752dbdd24ea41900800000000000000
+      internalID: 654339448086799740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 503
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b035e1d4d230910800000000000000
+      internalID: 1802334085122820890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 503
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99f278663c86d00800000000000000
+      internalID: 966236965193095631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679bd6f6bcbd4bf40800000000000000
+      internalID: 5743457091598530934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 531
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96ece79bdca09de0800000000000000
+      internalID: -1328371830927595877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 503
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96068b40a4f1f380800000000000000
+      internalID: -8939094816054704484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 525
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a86743341defe40800000000000000
+      internalID: 5692217065616083566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 503
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6bfc8dab523310800000000000000
+      internalID: 1383268836508921440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 514
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0e1fffdca93890800000000000000
+      internalID: -7477755628214154556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 503
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5303a8fd3a6400800000000000000
+      internalID: 318134861779131537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 504
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2c5f44f1c554c20800000000000000
+      internalID: 3190057200432562871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 504
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21be793188c3f9c0800000000000000
+      internalID: -3894548795404406482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 504
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a5385993a37bb0800000000000000
+      internalID: -4939424487290068598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 504
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85674ab2dd09cc60800000000000000
+      internalID: 7838811825134593421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 505
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02dd72f0976f540800000000000000
+      internalID: 5041349938888122551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 503
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435be92ad4201020800000000000000
+      internalID: 2310387128265823053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 505
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63d24cea12f0fc0800000000000000
+      internalID: -3526562948708485424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 431
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234680271ee999fa0800000000000000
+      internalID: -5793424754517449678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 433
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb31ed1033d41a30800000000000000
+      internalID: 4185202157347224551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 431
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56c72db16b9ac5c0800000000000000
+      internalID: -4194369258854562211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 433
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea308c14fe615f70800000000000000
+      internalID: 9174235910659652332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 431
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce883b2cd13f560800000000000000
+      internalID: 7346248139244367038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 433
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d94fb0a30dc7420800000000000000
+      internalID: 2629205230204788033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 431
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de144dd2e2fc00de0800000000000000
+      internalID: -1368866489476300307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 431
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60fb17c18e418f0800000000000000
+      internalID: -570576043904137550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 359
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33880de1b97fa53e0800000000000000
+      internalID: -2064065233586976717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 359
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe8b2c5d4488ecd0800000000000000
+      internalID: -2528625722974826762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 359
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac354b22fb97860800000000000000
+      internalID: 7528258407901678239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 359
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df43d2667d7c75b0800000000000000
+      internalID: -5369278708314845224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706f23ff10f919450800000000000000
+      internalID: 6093826601734305287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 287
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98735176bb8c7ba70800000000000000
+      internalID: 8842757100579141513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 287
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294b987fce4e807e0800000000000000
+      internalID: -1798936344718101358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 287
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c0beb8c7fcf580800000000000000
+      internalID: -8791879930969275655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 287
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b98216a8a79600800000000000000
+      internalID: 475033716939928780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 287
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68deed7e26dafb3c0800000000000000
+      internalID: -4341560875453321850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 287
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dc200205d5b8c60800000000000000
+      internalID: 7821447776574819640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 287
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1606deeb830211b00800000000000000
+      internalID: 797454037114773601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 287
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d793739920db9c050800000000000000
+      internalID: 5821391812211194237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 287
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc65dcc649501480800000000000000
+      internalID: -8930539900456571716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a41ec05af9b8d0800000000000000
+      internalID: -2829955665863859026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 215
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5623d0f32bd7840800000000000000
+      internalID: 5223527126693733869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 215
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1fe7e4451bd7bf0800000000000000
+      internalID: -324908622448496203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf2d52d12a5f8030800000000000000
+      internalID: 3499114536799907804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 215
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ab25500df80aeb0800000000000000
+      internalID: -4710607086624261617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 215
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a05c1303b6c7460800000000000000
+      internalID: 7240780155642513956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 215
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e11d46fa2a02e0800000000000000
+      internalID: -2158865834027392425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 215
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba02294fae2c9430800000000000000
+      internalID: 3790956316720237242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 215
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958d0de2c6c6d8650800000000000000
+      internalID: 6236760270875711577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 215
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29eadd4b3410bc60800000000000000
+      internalID: 7831781996939110700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 215
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e199a84503431ad20800000000000000
+      internalID: 3287966585138616606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 215
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14931110b9639a150800000000000000
+      internalID: 5884294427502000449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 143
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e40ff352d61e0f0800000000000000
+      internalID: -1089469628093018604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735b7d3a3d90f4b0800000000000000
+      internalID: -5408650279006809227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf118f3d6ba63d0800000000000000
+      internalID: -3212554362659145052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 143
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a681ca45986b60800000000000000
+      internalID: 7739600107943142069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 143
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6372d13bd42d160800000000000000
+      internalID: 7048781798471841491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 143
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381e17f2cddf2880800000000000000
+      internalID: -8633438131206612943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 143
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce97b1ce846e81c0800000000000000
+      internalID: -4499548413398376759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f430137e2e9712d0800000000000000
+      internalID: -3308001478944213770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 143
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710cfc57f9f77ffa0800000000000000
+      internalID: -5767000474971553769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 143
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f6ce505994ffc90800000000000000
+      internalID: -7133902380333240447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 143
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444168386c013c810800000000000000
+      internalID: 1784288322165019716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 149
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24b4d9c1070b210800000000000000
+      internalID: 1346699556784128741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 143
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483dc2fd5735b6260800000000000000
+      internalID: 7091853803945513860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 144
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b36e4efd52362c0800000000000000
+      internalID: -4439663164108948627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6373a06dd729720800000000000000
+      internalID: 2851479872326809250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 77
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304d7fd64d47ea60800000000000000
+      internalID: 7703210654433099838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 71
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3440bd8301a190800000000000000
+      internalID: -7953071559877050706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1bbbb7af080e00800000000000000
+      internalID: 1011075329428233678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688fa9c73a806e7c0800000000000000
+      internalID: -4042534117255219066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da99b14f4f874590800000000000000
+      internalID: -7690020268143961388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab512e2b8a879af0800000000000000
+      internalID: -389690512365233245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 72
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5657db441088ed0800000000000000
+      internalID: -2411676205708909120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 71
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f5e5772d7203340800000000000000
+      internalID: 4841413384322572112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024c292ce4d6a350800000000000000
+      internalID: 6027739262050124296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 71
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a069dd5b1e8e00800000000000000
+      internalID: 1048805853116802511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 71
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ec8c12f978ad870800000000000000
+      internalID: 8708421947010633257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 71
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9b56455f0636a0800000000000000
+      internalID: -6469966955744092672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 71
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f770462dcc87d0800000000000000
+      internalID: -2914729294641498361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 71
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e547faa67ad5fa90800000000000000
+      internalID: -7280673019365210648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 71
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813a6480883e42e0800000000000000
+      internalID: -2139710648325885558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ffad698e3c5b00800000000000000
+      internalID: 818597992246277696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61264ece67e5039d0800000000000000
+      internalID: -2796631503723535850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5a4571acbb8d200800000000000000
+      internalID: 205120259694568955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc929776ad3a7f20800000000000000
+      internalID: 3421114652121275589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade12fe756ca3fe0800000000000000
+      internalID: -1208435469019124319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aaed2ff081d62e0800000000000000
+      internalID: -2131020591898121670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 29
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f50b0d0ccfde9b0800000000000000
+      internalID: -5049101702147317944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbad7a9361dbbfd0800000000000000
+      internalID: -2325034556882834475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed35fb4dc91782ff0800000000000000
+      internalID: -60673676571356194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3535efdc6a43550800000000000000
+      internalID: 6139715595678208984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 29
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc69a050508ae2a0800000000000000
+      internalID: -6707407612575912767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdcf91cc7cc22420800000000000000
+      internalID: 2603868370770054655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff77649627ecc70800000000000000
+      internalID: 8993251302384861119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: judi_h_character_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef2f2faf438c240800000000000000
+      internalID: 4812154454267854497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      judi_h_character_atlas_0: 3695850603035794377
+      judi_h_character_atlas_1: 5112183281672678681
+      judi_h_character_atlas_10: -2295861508786476645
+      judi_h_character_atlas_100: -5049101702147317944
+      judi_h_character_atlas_101: -2325034556882834475
+      judi_h_character_atlas_102: -60673676571356194
+      judi_h_character_atlas_103: 6139715595678208984
+      judi_h_character_atlas_104: -6707407612575912767
+      judi_h_character_atlas_105: 2603868370770054655
+      judi_h_character_atlas_106: 8993251302384861119
+      judi_h_character_atlas_107: 4812154454267854497
+      judi_h_character_atlas_11: -755318441123770102
+      judi_h_character_atlas_12: -4244401108581243745
+      judi_h_character_atlas_13: 654339448086799740
+      judi_h_character_atlas_14: 1802334085122820890
+      judi_h_character_atlas_15: 966236965193095631
+      judi_h_character_atlas_16: 5743457091598530934
+      judi_h_character_atlas_17: -1328371830927595877
+      judi_h_character_atlas_18: -8939094816054704484
+      judi_h_character_atlas_19: 5692217065616083566
+      judi_h_character_atlas_2: -6578340580852119045
+      judi_h_character_atlas_20: 1383268836508921440
+      judi_h_character_atlas_21: -7477755628214154556
+      judi_h_character_atlas_22: 318134861779131537
+      judi_h_character_atlas_23: 3190057200432562871
+      judi_h_character_atlas_24: -3894548795404406482
+      judi_h_character_atlas_25: -4939424487290068598
+      judi_h_character_atlas_26: 7838811825134593421
+      judi_h_character_atlas_27: 5041349938888122551
+      judi_h_character_atlas_28: 2310387128265823053
+      judi_h_character_atlas_29: -3526562948708485424
+      judi_h_character_atlas_3: 8796397712233806292
+      judi_h_character_atlas_30: -5793424754517449678
+      judi_h_character_atlas_31: 4185202157347224551
+      judi_h_character_atlas_32: -4194369258854562211
+      judi_h_character_atlas_33: 9174235910659652332
+      judi_h_character_atlas_34: 7346248139244367038
+      judi_h_character_atlas_35: 2629205230204788033
+      judi_h_character_atlas_36: -1368866489476300307
+      judi_h_character_atlas_37: -570576043904137550
+      judi_h_character_atlas_38: -2064065233586976717
+      judi_h_character_atlas_39: -2528625722974826762
+      judi_h_character_atlas_4: -4237282372683214794
+      judi_h_character_atlas_40: 7528258407901678239
+      judi_h_character_atlas_41: -5369278708314845224
+      judi_h_character_atlas_42: 6093826601734305287
+      judi_h_character_atlas_43: 8842757100579141513
+      judi_h_character_atlas_44: -1798936344718101358
+      judi_h_character_atlas_45: -8791879930969275655
+      judi_h_character_atlas_46: 475033716939928780
+      judi_h_character_atlas_47: -4341560875453321850
+      judi_h_character_atlas_48: 7821447776574819640
+      judi_h_character_atlas_49: 797454037114773601
+      judi_h_character_atlas_5: 4914978206595308849
+      judi_h_character_atlas_50: 5821391812211194237
+      judi_h_character_atlas_51: -8930539900456571716
+      judi_h_character_atlas_52: -2829955665863859026
+      judi_h_character_atlas_53: 5223527126693733869
+      judi_h_character_atlas_54: -324908622448496203
+      judi_h_character_atlas_55: 3499114536799907804
+      judi_h_character_atlas_56: -4710607086624261617
+      judi_h_character_atlas_57: 7240780155642513956
+      judi_h_character_atlas_58: -2158865834027392425
+      judi_h_character_atlas_59: 3790956316720237242
+      judi_h_character_atlas_6: -662097591633874588
+      judi_h_character_atlas_60: 6236760270875711577
+      judi_h_character_atlas_61: 7831781996939110700
+      judi_h_character_atlas_62: 3287966585138616606
+      judi_h_character_atlas_63: 5884294427502000449
+      judi_h_character_atlas_64: -1089469628093018604
+      judi_h_character_atlas_65: -5408650279006809227
+      judi_h_character_atlas_66: -3212554362659145052
+      judi_h_character_atlas_67: 7739600107943142069
+      judi_h_character_atlas_68: 7048781798471841491
+      judi_h_character_atlas_69: -8633438131206612943
+      judi_h_character_atlas_7: 7794633478437874312
+      judi_h_character_atlas_70: -4499548413398376759
+      judi_h_character_atlas_71: -3308001478944213770
+      judi_h_character_atlas_72: -5767000474971553769
+      judi_h_character_atlas_73: -7133902380333240447
+      judi_h_character_atlas_74: 1784288322165019716
+      judi_h_character_atlas_75: 1346699556784128741
+      judi_h_character_atlas_76: 7091853803945513860
+      judi_h_character_atlas_77: -4439663164108948627
+      judi_h_character_atlas_78: 2851479872326809250
+      judi_h_character_atlas_79: 7703210654433099838
+      judi_h_character_atlas_8: 6567001965793620603
+      judi_h_character_atlas_80: -7953071559877050706
+      judi_h_character_atlas_81: 1011075329428233678
+      judi_h_character_atlas_82: -4042534117255219066
+      judi_h_character_atlas_83: -7690020268143961388
+      judi_h_character_atlas_84: -389690512365233245
+      judi_h_character_atlas_85: -2411676205708909120
+      judi_h_character_atlas_86: 4841413384322572112
+      judi_h_character_atlas_87: 6027739262050124296
+      judi_h_character_atlas_88: 1048805853116802511
+      judi_h_character_atlas_89: 8708421947010633257
+      judi_h_character_atlas_9: -6834965993758271018
+      judi_h_character_atlas_90: -6469966955744092672
+      judi_h_character_atlas_91: -2914729294641498361
+      judi_h_character_atlas_92: -7280673019365210648
+      judi_h_character_atlas_93: -2139710648325885558
+      judi_h_character_atlas_94: 818597992246277696
+      judi_h_character_atlas_95: -2796631503723535850
+      judi_h_character_atlas_96: 205120259694568955
+      judi_h_character_atlas_97: 3421114652121275589
+      judi_h_character_atlas_98: -1208435469019124319
+      judi_h_character_atlas_99: -2131020591898121670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

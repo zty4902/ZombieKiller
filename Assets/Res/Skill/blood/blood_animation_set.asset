@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59540757d4006d444aaf5d4f510bc912, type: 3}
+  m_Name: blood_animation_set
+  m_EditorClassIdentifier: 
+  _animations:
+  - name: common
+    data: {fileID: 11400000, guid: b2b1d1cf8258dbd41bf08f9954713baa, type: 2}
+  - name: shot
+    data: {fileID: 11400000, guid: d8a3a7d061b7a4d4db658bf4ada59371, type: 2}
+  - name: splash
+    data: {fileID: 11400000, guid: f9909ad3aa135544a814e49fae6d9512, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59540757d4006d444aaf5d4f510bc912, type: 3}
+  m_Name: boos_z_animation_set
+  m_EditorClassIdentifier: 
+  _animations:
+  - name: Death
+    data: {fileID: 11400000, guid: 120930fceb8374749948c506a4cc3b7e, type: 2}
+  - name: Idle
+    data: {fileID: 11400000, guid: 96d9024195c89154ea80a708666c3ea7, type: 2}
+  - name: Idle2
+    data: {fileID: 11400000, guid: 31a4ea9c58e9236438cf5376a101c523, type: 2}
+  - name: Melee
+    data: {fileID: 11400000, guid: 5e08fe07d6039f841ac574dc37fa1cb9, type: 2}
+  - name: Move
+    data: {fileID: 11400000, guid: 3078bb14997e643448e93c8d8f8be230, type: 2}

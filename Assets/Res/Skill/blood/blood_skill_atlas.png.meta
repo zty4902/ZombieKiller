@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 1c947d3aa60667349aeb965a716560b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3748329243723858728
+    second: blood_skill_atlas_0
+  - first:
+      213: -3051597778993105351
+    second: blood_skill_atlas_1
+  - first:
+      213: 5574422084954879940
+    second: blood_skill_atlas_2
+  - first:
+      213: -2560109789898370874
+    second: blood_skill_atlas_3
+  - first:
+      213: 5661650267201014694
+    second: blood_skill_atlas_4
+  - first:
+      213: 4771183468095322872
+    second: blood_skill_atlas_5
+  - first:
+      213: -3103207833958693180
+    second: blood_skill_atlas_6
+  - first:
+      213: 4224656374512264799
+    second: blood_skill_atlas_7
+  - first:
+      213: 2712134251465718337
+    second: blood_skill_atlas_8
+  - first:
+      213: 6516679274967144481
+    second: blood_skill_atlas_9
+  - first:
+      213: 3188699918061166162
+    second: blood_skill_atlas_10
+  - first:
+      213: -254052951736961997
+    second: blood_skill_atlas_11
+  - first:
+      213: -8495551548451987035
+    second: blood_skill_atlas_12
+  - first:
+      213: 4530913621809413916
+    second: blood_skill_atlas_13
+  - first:
+      213: 7420047547181238826
+    second: blood_skill_atlas_14
+  - first:
+      213: -281092871110743128
+    second: blood_skill_atlas_15
+  - first:
+      213: -8553274177902203034
+    second: blood_skill_atlas_16
+  - first:
+      213: 6367844304904820483
+    second: blood_skill_atlas_17
+  - first:
+      213: 4808905293426516870
+    second: blood_skill_atlas_18
+  - first:
+      213: 7552573373267618327
+    second: blood_skill_atlas_19
+  - first:
+      213: 483072861635307752
+    second: blood_skill_atlas_20
+  - first:
+      213: 6425685836020400449
+    second: blood_skill_atlas_21
+  - first:
+      213: -6541762996555667146
+    second: blood_skill_atlas_22
+  - first:
+      213: -216409259908209780
+    second: blood_skill_atlas_23
+  - first:
+      213: 3367465838334848874
+    second: blood_skill_atlas_24
+  - first:
+      213: 6394759821817740499
+    second: blood_skill_atlas_25
+  - first:
+      213: -5592053571202297717
+    second: blood_skill_atlas_26
+  - first:
+      213: 6276704059629991963
+    second: blood_skill_atlas_27
+  - first:
+      213: -6723967283628137401
+    second: blood_skill_atlas_28
+  - first:
+      213: 5574326534346706172
+    second: blood_skill_atlas_29
+  - first:
+      213: -5604332933332784883
+    second: blood_skill_atlas_30
+  - first:
+      213: 916194510240118371
+    second: blood_skill_atlas_31
+  - first:
+      213: -4162829357011248793
+    second: blood_skill_atlas_32
+  - first:
+      213: 8291557895934539163
+    second: blood_skill_atlas_33
+  - first:
+      213: -6214234393580699401
+    second: blood_skill_atlas_34
+  - first:
+      213: -8076059321136034331
+    second: blood_skill_atlas_35
+  - first:
+      213: -4353819808880486651
+    second: blood_skill_atlas_36
+  - first:
+      213: -1284204381901902124
+    second: blood_skill_atlas_37
+  - first:
+      213: -4189509003858363762
+    second: blood_skill_atlas_38
+  - first:
+      213: 5843846608360409791
+    second: blood_skill_atlas_39
+  - first:
+      213: -3464104706731322842
+    second: blood_skill_atlas_40
+  - first:
+      213: 1676633742169373571
+    second: blood_skill_atlas_41
+  - first:
+      213: 7197709886907120301
+    second: blood_skill_atlas_42
+  - first:
+      213: 2744628354370360112
+    second: blood_skill_atlas_43
+  - first:
+      213: 3764155577553589992
+    second: blood_skill_atlas_44
+  - first:
+      213: 7749875111201160509
+    second: blood_skill_atlas_45
+  - first:
+      213: 990695368275883594
+    second: blood_skill_atlas_46
+  - first:
+      213: -2293630735721946982
+    second: blood_skill_atlas_47
+  - first:
+      213: 2997842152826820442
+    second: blood_skill_atlas_48
+  - first:
+      213: -5806979697319846118
+    second: blood_skill_atlas_49
+  - first:
+      213: -2358190097227043652
+    second: blood_skill_atlas_50
+  - first:
+      213: 3122058991037611211
+    second: blood_skill_atlas_51
+  - first:
+      213: -5952806874807406957
+    second: blood_skill_atlas_52
+  - first:
+      213: -688868234237962991
+    second: blood_skill_atlas_53
+  - first:
+      213: -1241418627499452343
+    second: blood_skill_atlas_54
+  - first:
+      213: -5429337130172644001
+    second: blood_skill_atlas_55
+  - first:
+      213: -5579935182664659333
+    second: blood_skill_atlas_56
+  - first:
+      213: 3485769653902385652
+    second: blood_skill_atlas_57
+  - first:
+      213: 1474940864896949218
+    second: blood_skill_atlas_58
+  - first:
+      213: 7174190606894893551
+    second: blood_skill_atlas_59
+  - first:
+      213: 8040548150276571994
+    second: blood_skill_atlas_60
+  - first:
+      213: -8847501223040488178
+    second: blood_skill_atlas_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood_skill_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 389
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc71ae89624bfbc0800000000000000
+      internalID: -3748329243723858728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 379
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936beb1fcfb86a5d0800000000000000
+      internalID: -3051597778993105351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 377
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f3d90a535c5d40800000000000000
+      internalID: 5574422084954879940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 401
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c09b1bc5b9a87cd0800000000000000
+      internalID: -2560109789898370874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 401
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab030bdbe8329e40800000000000000
+      internalID: 5661650267201014694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 395
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab90ed516a63240800000000000000
+      internalID: 4771183468095322872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 367
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6cea0aae03fe4d0800000000000000
+      internalID: -3103207833958693180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 386
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a4e4e69ef0aa30800000000000000
+      internalID: 4224656374512264799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 337
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab8c17bbf63a520800000000000000
+      internalID: 2712134251465718337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 334
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12811931645ef6a50800000000000000
+      internalID: 6516679274967144481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 325
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5a575ea9804c20800000000000000
+      internalID: 3188699918061166162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 330
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343499bf2c697cf0800000000000000
+      internalID: -254052951736961997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ef77c0ecb91a80800000000000000
+      internalID: -8495551548451987035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 331
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fbde7eee901ee30800000000000000
+      internalID: 4530913621809413916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 286
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0f3a5eed49f660800000000000000
+      internalID: 7420047547181238826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 324
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abac84e58b591cf0800000000000000
+      internalID: -281092871110743128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2e9fc37aac4980800000000000000
+      internalID: -8553274177902203034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 11
+        width: 144
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30798d238a02f5850800000000000000
+      internalID: 6367844304904820483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 137
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ee2db2e9acb240800000000000000
+      internalID: 4808905293426516870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa0bdb77120d860800000000000000
+      internalID: 7552573373267618327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 157
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8676e453834b600800000000000000
+      internalID: 483072861635307752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141414e193f9c2950800000000000000
+      internalID: 6425685836020400449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392181e63df635a0800000000000000
+      internalID: -6541762996555667146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e019bce82ffcf0800000000000000
+      internalID: -216409259908209780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 217
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f263f9654abbe20800000000000000
+      internalID: 3367465838334848874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf2635d20ceb850800000000000000
+      internalID: 6394759821817740499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 179
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80588ba7e80562b0800000000000000
+      internalID: -5592053571202297717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 193
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b187f7a36155b1750800000000000000
+      internalID: 6276704059629991963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442ff1716bafa2a0800000000000000
+      internalID: -6723967283628137401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 173
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc05cde27cfb5d40800000000000000
+      internalID: 5574326534346706172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 183
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d092da1e3e86932b0800000000000000
+      internalID: -5604332933332784883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 163
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36676088d0af6bc00800000000000000
+      internalID: 916194510240118371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 137
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d6c261c8aa36c0800000000000000
+      internalID: -4162829357011248793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9573cdc9f7811370800000000000000
+      internalID: 8291557895934539163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f08b935eba92c9a0800000000000000
+      internalID: -6214234393580699401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed44b216d21cef80800000000000000
+      internalID: -8076059321136034331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5079e9b83ff1493c0800000000000000
+      internalID: -4353819808880486651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deacbd2be69d2ee0800000000000000
+      internalID: -1284204381901902124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab8b902cfdbd5c0800000000000000
+      internalID: -4189509003858363762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba813d3783891150800000000000000
+      internalID: 5843846608360409791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62255827f170defc0800000000000000
+      internalID: -3464104706731322842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b707c5189944710800000000000000
+      internalID: 1676633742169373571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7a6dc10763e360800000000000000
+      internalID: 7197709886907120301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 55
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033d5b652f0e61620800000000000000
+      internalID: 2744628354370360112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6136fed87fc3430800000000000000
+      internalID: 3764155577553589992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d39c06a561d8b60800000000000000
+      internalID: 7749875111201160509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4675b24038afbd00800000000000000
+      internalID: 990695368275883594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90206f7ff26b20e0800000000000000
+      internalID: -2293630735721946982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a575fe30e897a9920800000000000000
+      internalID: 2997842152826820442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f58536bb6796fa0800000000000000
+      internalID: -5806979697319846118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc20fdc996064fd0800000000000000
+      internalID: -2358190097227043652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc7c986c18c35b20800000000000000
+      internalID: 3122058991037611211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 39
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee99acfa1636da0800000000000000
+      internalID: -5952806874807406957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151231adf5a076f0800000000000000
+      internalID: -688868234237962991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948975ae55895cee0800000000000000
+      internalID: -1241418627499452343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55883e55ae17a4b0800000000000000
+      internalID: -5429337130172644001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e819fd3861092b0800000000000000
+      internalID: -5579935182664659333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f120b52801ff5030800000000000000
+      internalID: 3485769653902385652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebd3ece6ea087410800000000000000
+      internalID: 1474940864896949218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe90ae2b858df8360800000000000000
+      internalID: 7174190606894893551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c8a821f3c59f60800000000000000
+      internalID: 8040548150276571994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_skill_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d66d2838c573580800000000000000
+      internalID: -8847501223040488178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blood_skill_atlas_0: -3748329243723858728
+      blood_skill_atlas_1: -3051597778993105351
+      blood_skill_atlas_10: 3188699918061166162
+      blood_skill_atlas_11: -254052951736961997
+      blood_skill_atlas_12: -8495551548451987035
+      blood_skill_atlas_13: 4530913621809413916
+      blood_skill_atlas_14: 7420047547181238826
+      blood_skill_atlas_15: -281092871110743128
+      blood_skill_atlas_16: -8553274177902203034
+      blood_skill_atlas_17: 6367844304904820483
+      blood_skill_atlas_18: 4808905293426516870
+      blood_skill_atlas_19: 7552573373267618327
+      blood_skill_atlas_2: 5574422084954879940
+      blood_skill_atlas_20: 483072861635307752
+      blood_skill_atlas_21: 6425685836020400449
+      blood_skill_atlas_22: -6541762996555667146
+      blood_skill_atlas_23: -216409259908209780
+      blood_skill_atlas_24: 3367465838334848874
+      blood_skill_atlas_25: 6394759821817740499
+      blood_skill_atlas_26: -5592053571202297717
+      blood_skill_atlas_27: 6276704059629991963
+      blood_skill_atlas_28: -6723967283628137401
+      blood_skill_atlas_29: 5574326534346706172
+      blood_skill_atlas_3: -2560109789898370874
+      blood_skill_atlas_30: -5604332933332784883
+      blood_skill_atlas_31: 916194510240118371
+      blood_skill_atlas_32: -4162829357011248793
+      blood_skill_atlas_33: 8291557895934539163
+      blood_skill_atlas_34: -6214234393580699401
+      blood_skill_atlas_35: -8076059321136034331
+      blood_skill_atlas_36: -4353819808880486651
+      blood_skill_atlas_37: -1284204381901902124
+      blood_skill_atlas_38: -4189509003858363762
+      blood_skill_atlas_39: 5843846608360409791
+      blood_skill_atlas_4: 5661650267201014694
+      blood_skill_atlas_40: -3464104706731322842
+      blood_skill_atlas_41: 1676633742169373571
+      blood_skill_atlas_42: 7197709886907120301
+      blood_skill_atlas_43: 2744628354370360112
+      blood_skill_atlas_44: 3764155577553589992
+      blood_skill_atlas_45: 7749875111201160509
+      blood_skill_atlas_46: 990695368275883594
+      blood_skill_atlas_47: -2293630735721946982
+      blood_skill_atlas_48: 2997842152826820442
+      blood_skill_atlas_49: -5806979697319846118
+      blood_skill_atlas_5: 4771183468095322872
+      blood_skill_atlas_50: -2358190097227043652
+      blood_skill_atlas_51: 3122058991037611211
+      blood_skill_atlas_52: -5952806874807406957
+      blood_skill_atlas_53: -688868234237962991
+      blood_skill_atlas_54: -1241418627499452343
+      blood_skill_atlas_55: -5429337130172644001
+      blood_skill_atlas_56: -5579935182664659333
+      blood_skill_atlas_57: 3485769653902385652
+      blood_skill_atlas_58: 1474940864896949218
+      blood_skill_atlas_59: 7174190606894893551
+      blood_skill_atlas_6: -3103207833958693180
+      blood_skill_atlas_60: 8040548150276571994
+      blood_skill_atlas_61: -8847501223040488178
+      blood_skill_atlas_7: 4224656374512264799
+      blood_skill_atlas_8: 2712134251465718337
+      blood_skill_atlas_9: 6516679274967144481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

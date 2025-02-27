@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59540757d4006d444aaf5d4f510bc912, type: 3}
+  m_Name: abby_z_animation_set
+  m_EditorClassIdentifier: 
+  _animations:
+  - name: AfterDeath
+    data: {fileID: 11400000, guid: 5f6ec248d5e6c194682dbf139d8b046d, type: 2}
+  - name: Death
+    data: {fileID: 11400000, guid: 819a0b41a7c7ee840a0ee17f293f2273, type: 2}
+  - name: Idle
+    data: {fileID: 11400000, guid: 6b3268b87484a8d4e81b50a2b75f2bfd, type: 2}
+  - name: Melee
+    data: {fileID: 11400000, guid: 2d74a7b95fa30d440bd5657f15a7d8ac, type: 2}
+  - name: Move
+    data: {fileID: 11400000, guid: b752e7ee3acdd7341a9820155d7609b5, type: 2}
+  - name: Spawn
+    data: {fileID: 11400000, guid: 1a83abc08d6d3e544aa047d1ded3ba5c, type: 2}
+  - name: Special
+    data: {fileID: 11400000, guid: dcbd72c7f5d89774b99f742cff1da9cd, type: 2}

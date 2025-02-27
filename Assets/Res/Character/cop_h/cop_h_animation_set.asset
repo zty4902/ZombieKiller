@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59540757d4006d444aaf5d4f510bc912, type: 3}
+  m_Name: cop_h_animation_set
+  m_EditorClassIdentifier: 
+  _animations:
+  - name: AfterDeath
+    data: {fileID: 11400000, guid: 75f711b6a407e0f41b6165cdb16c39c6, type: 2}
+  - name: Aim
+    data: {fileID: 11400000, guid: 5a5db4346dac7c345b565bea08e1196a, type: 2}
+  - name: Death
+    data: {fileID: 11400000, guid: 5fa0f2894c2b9f340a009664ec6cf400, type: 2}
+  - name: Fire
+    data: {fileID: 11400000, guid: 37963201c2edf5842ad17bc6373afe0f, type: 2}
+  - name: Idle
+    data: {fileID: 11400000, guid: d44054edbf4b08c488c7f41105a73474, type: 2}
+  - name: Move
+    data: {fileID: 11400000, guid: ad830c83b753f2649abf32818a332ddd, type: 2}
+  - name: Reload
+    data: {fileID: 11400000, guid: 9b5dfe4154eae5b4f94e612ba64b6d02, type: 2}
+  - name: Reload2
+    data: {fileID: 11400000, guid: b656af5c9c0a2214fb077034d27a4f29, type: 2}

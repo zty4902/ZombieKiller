@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 843998cfb9161a84cb30737c729e98fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6987427205446573631
+    second: naked_z_character_atlas_0
+  - first:
+      213: 4524994834149295290
+    second: naked_z_character_atlas_1
+  - first:
+      213: 6013660572558288301
+    second: naked_z_character_atlas_2
+  - first:
+      213: 4811914639081040459
+    second: naked_z_character_atlas_3
+  - first:
+      213: -6803067896994356394
+    second: naked_z_character_atlas_4
+  - first:
+      213: 1672603294954083804
+    second: naked_z_character_atlas_5
+  - first:
+      213: -4688955878010232367
+    second: naked_z_character_atlas_6
+  - first:
+      213: 115585798424909443
+    second: naked_z_character_atlas_7
+  - first:
+      213: -6217220008548668670
+    second: naked_z_character_atlas_8
+  - first:
+      213: 417174443509492676
+    second: naked_z_character_atlas_9
+  - first:
+      213: 6341711528266743063
+    second: naked_z_character_atlas_10
+  - first:
+      213: 7808717271499152132
+    second: naked_z_character_atlas_11
+  - first:
+      213: 5073702693864798103
+    second: naked_z_character_atlas_12
+  - first:
+      213: -5499042640387109778
+    second: naked_z_character_atlas_13
+  - first:
+      213: -7585779885867507001
+    second: naked_z_character_atlas_14
+  - first:
+      213: 6361499267170041121
+    second: naked_z_character_atlas_15
+  - first:
+      213: 7206555528631658159
+    second: naked_z_character_atlas_16
+  - first:
+      213: 2403575838580997974
+    second: naked_z_character_atlas_17
+  - first:
+      213: -7361512803212978615
+    second: naked_z_character_atlas_18
+  - first:
+      213: -8061104686519108118
+    second: naked_z_character_atlas_19
+  - first:
+      213: 6409182712935239357
+    second: naked_z_character_atlas_20
+  - first:
+      213: -5329896947545610632
+    second: naked_z_character_atlas_21
+  - first:
+      213: -3957537119740932689
+    second: naked_z_character_atlas_22
+  - first:
+      213: 6262298049467616556
+    second: naked_z_character_atlas_23
+  - first:
+      213: -6161278819562960711
+    second: naked_z_character_atlas_24
+  - first:
+      213: 8220343973915890680
+    second: naked_z_character_atlas_25
+  - first:
+      213: -7708858529960262669
+    second: naked_z_character_atlas_26
+  - first:
+      213: 7775622126808564685
+    second: naked_z_character_atlas_27
+  - first:
+      213: 6325821091697102079
+    second: naked_z_character_atlas_28
+  - first:
+      213: 8436170451057470581
+    second: naked_z_character_atlas_29
+  - first:
+      213: -3524368041587974746
+    second: naked_z_character_atlas_30
+  - first:
+      213: -4397064987859493344
+    second: naked_z_character_atlas_31
+  - first:
+      213: 1582210930408223954
+    second: naked_z_character_atlas_32
+  - first:
+      213: 6678908437645328556
+    second: naked_z_character_atlas_33
+  - first:
+      213: -3299286599677754095
+    second: naked_z_character_atlas_34
+  - first:
+      213: -2944026121533244488
+    second: naked_z_character_atlas_35
+  - first:
+      213: -7989326427454966313
+    second: naked_z_character_atlas_36
+  - first:
+      213: -5991571218399762099
+    second: naked_z_character_atlas_37
+  - first:
+      213: 1171321785059145721
+    second: naked_z_character_atlas_38
+  - first:
+      213: -1681950362563270699
+    second: naked_z_character_atlas_39
+  - first:
+      213: -2195228770363454453
+    second: naked_z_character_atlas_40
+  - first:
+      213: -3418001192664629279
+    second: naked_z_character_atlas_41
+  - first:
+      213: -2106377344488498765
+    second: naked_z_character_atlas_42
+  - first:
+      213: -8057377034945849382
+    second: naked_z_character_atlas_43
+  - first:
+      213: -479012695894266589
+    second: naked_z_character_atlas_44
+  - first:
+      213: -6767330536186358604
+    second: naked_z_character_atlas_45
+  - first:
+      213: 7970963612046637004
+    second: naked_z_character_atlas_46
+  - first:
+      213: -7348886679156873815
+    second: naked_z_character_atlas_47
+  - first:
+      213: -8183670779428320014
+    second: naked_z_character_atlas_48
+  - first:
+      213: 1122562562970199539
+    second: naked_z_character_atlas_49
+  - first:
+      213: 2937273550266815385
+    second: naked_z_character_atlas_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naked_z_character_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1b8ab50458f060800000000000000
+      internalID: 6987427205446573631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 287
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab442f3c3d20cce30800000000000000
+      internalID: 4524994834149295290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5eb13dd60d47350800000000000000
+      internalID: 6013660572558288301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 287
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6def9eda57c240800000000000000
+      internalID: 4811914639081040459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 287
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a9c8bac5a691a0800000000000000
+      internalID: -6803067896994356394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 287
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d2edb5d7463710800000000000000
+      internalID: 1672603294954083804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 287
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d168bbd87b7deeb0800000000000000
+      internalID: -4688955878010232367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 287
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865238dba4aa9100800000000000000
+      internalID: 115585798424909443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 287
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b610ca75ff7b9a0800000000000000
+      internalID: -6217220008548668670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb21c232f91ac500800000000000000
+      internalID: 417174443509492676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db65ef809420850800000000000000
+      internalID: 6341711528266743063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1a2f6cf22e5c60800000000000000
+      internalID: 7808717271499152132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797f0cbe7b9696640800000000000000
+      internalID: 5073702693864798103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c000f8ad97fa3b0800000000000000
+      internalID: -5499042640387109778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2609e8265e9b690800000000000000
+      internalID: -7585779885867507001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 215
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df39af0e5984850800000000000000
+      internalID: 6361499267170041121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a7324214d20460800000000000000
+      internalID: 7206555528631658159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 215
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff4519d773b5120800000000000000
+      internalID: 2403575838580997974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 215
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9461003cb17a6d990800000000000000
+      internalID: -7361512803212978615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 215
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedbac64ff3312090800000000000000
+      internalID: -8061104686519108118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 215
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe441958bdf1f850800000000000000
+      internalID: 6409182712935239357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 215
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ea1817f66806b0800000000000000
+      internalID: -5329896947545610632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 215
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad4b6025f00419c0800000000000000
+      internalID: -3957537119740932689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 215
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d832c95e628e650800000000000000
+      internalID: 6262298049467616556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 215
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8cfc5be8dbe7aa0800000000000000
+      internalID: -6161278819562960711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f397c08a47841270800000000000000
+      internalID: 8220343973915890680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f38af1a202a40590800000000000000
+      internalID: -7708858529960262669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 168
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38718902f88eb60800000000000000
+      internalID: 7775622126808564685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc874b64c4d9c750800000000000000
+      internalID: 6325821091697102079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c6de7145c431570800000000000000
+      internalID: 8436170451057470581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add86760fde61fc0800000000000000
+      internalID: -3524368041587974746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 143
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed350b0bc7af2c0800000000000000
+      internalID: -4397064987859493344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f8b2557425f510800000000000000
+      internalID: 1582210930408223954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0853176df30bc50800000000000000
+      internalID: 6678908437645328556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115400661549632d0800000000000000
+      internalID: -3299286599677754095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb3a8037d7b427d0800000000000000
+      internalID: -2944026121533244488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f7e881f5302190800000000000000
+      internalID: -7989326427454966313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 143
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e3d8b8b9a9dca0800000000000000
+      internalID: -5991571218399762099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 143
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7702425fe514010800000000000000
+      internalID: 1171321785059145721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 143
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7a39d7e0388a8e0800000000000000
+      internalID: -1681950362563270699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc4cd601bf881e0800000000000000
+      internalID: -2195228770363454453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1effc5d4602d090d0800000000000000
+      internalID: -3418001192664629279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 71
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b915da17f4a4c2e0800000000000000
+      internalID: -2106377344488498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 71
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad799aac6427e2090800000000000000
+      internalID: -8057377034945849382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 71
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de152bd743a59f0800000000000000
+      internalID: -479012695894266589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 71
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b455f07bbc9512a0800000000000000
+      internalID: -6767330536186358604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 72
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ba955c2d8e9e60800000000000000
+      internalID: 7970963612046637004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 71
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5214a5082830a90800000000000000
+      internalID: -7348886679156873815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4e69f8c2cd6e80800000000000000
+      internalID: -8183670779428320014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5adf314b4249f00800000000000000
+      internalID: 1122562562970199539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naked_z_character_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ddcb4bba43c820800000000000000
+      internalID: 2937273550266815385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      naked_z_character_atlas_0: 6987427205446573631
+      naked_z_character_atlas_1: 4524994834149295290
+      naked_z_character_atlas_10: 6341711528266743063
+      naked_z_character_atlas_11: 7808717271499152132
+      naked_z_character_atlas_12: 5073702693864798103
+      naked_z_character_atlas_13: -5499042640387109778
+      naked_z_character_atlas_14: -7585779885867507001
+      naked_z_character_atlas_15: 6361499267170041121
+      naked_z_character_atlas_16: 7206555528631658159
+      naked_z_character_atlas_17: 2403575838580997974
+      naked_z_character_atlas_18: -7361512803212978615
+      naked_z_character_atlas_19: -8061104686519108118
+      naked_z_character_atlas_2: 6013660572558288301
+      naked_z_character_atlas_20: 6409182712935239357
+      naked_z_character_atlas_21: -5329896947545610632
+      naked_z_character_atlas_22: -3957537119740932689
+      naked_z_character_atlas_23: 6262298049467616556
+      naked_z_character_atlas_24: -6161278819562960711
+      naked_z_character_atlas_25: 8220343973915890680
+      naked_z_character_atlas_26: -7708858529960262669
+      naked_z_character_atlas_27: 7775622126808564685
+      naked_z_character_atlas_28: 6325821091697102079
+      naked_z_character_atlas_29: 8436170451057470581
+      naked_z_character_atlas_3: 4811914639081040459
+      naked_z_character_atlas_30: -3524368041587974746
+      naked_z_character_atlas_31: -4397064987859493344
+      naked_z_character_atlas_32: 1582210930408223954
+      naked_z_character_atlas_33: 6678908437645328556
+      naked_z_character_atlas_34: -3299286599677754095
+      naked_z_character_atlas_35: -2944026121533244488
+      naked_z_character_atlas_36: -7989326427454966313
+      naked_z_character_atlas_37: -5991571218399762099
+      naked_z_character_atlas_38: 1171321785059145721
+      naked_z_character_atlas_39: -1681950362563270699
+      naked_z_character_atlas_4: -6803067896994356394
+      naked_z_character_atlas_40: -2195228770363454453
+      naked_z_character_atlas_41: -3418001192664629279
+      naked_z_character_atlas_42: -2106377344488498765
+      naked_z_character_atlas_43: -8057377034945849382
+      naked_z_character_atlas_44: -479012695894266589
+      naked_z_character_atlas_45: -6767330536186358604
+      naked_z_character_atlas_46: 7970963612046637004
+      naked_z_character_atlas_47: -7348886679156873815
+      naked_z_character_atlas_48: -8183670779428320014
+      naked_z_character_atlas_49: 1122562562970199539
+      naked_z_character_atlas_5: 1672603294954083804
+      naked_z_character_atlas_50: 2937273550266815385
+      naked_z_character_atlas_6: -4688955878010232367
+      naked_z_character_atlas_7: 115585798424909443
+      naked_z_character_atlas_8: -6217220008548668670
+      naked_z_character_atlas_9: 417174443509492676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
